@@ -1,0 +1,2 @@
+This is the third fie to commit into the Git.
+
